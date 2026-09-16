@@ -361,7 +361,7 @@ These parameters can be modified directly in the corresponding `run()` calls to 
 # Technologies Used
 
 | Category               | Technology                                         |
-|: ---------------------- |: -------------------------------------------------- |
+| :---------------------- | :-------------------------------------------------- |
 | Programming Language   | Python                                             |
 | Numerical Computation  | NumPy                                              |
 | Learning Algorithms    | Perceptron, Adaline / Delta Rule                   |
