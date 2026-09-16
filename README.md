@@ -290,7 +290,6 @@ Character-Pattern-Classification-with-Perceptron-and-Adaline/
     └── K3.txt
 ```
 
-The repository intentionally contains only the source code and datasets required to reproduce the implemented experiments.
 
 ---
 
